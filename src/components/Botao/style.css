@@ -1,0 +1,19 @@
+.btn {
+  background-color: var(--terciaria-coral);
+  border-color: var(--primaria-azul);
+  border: 1px;
+  width: 174px;
+  height: 40px;
+  border-radius: 6px;
+}
+.btn:hover{
+  background-color: var(--button-hover-coral);
+}
+.btn-texto{
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 24px;
+  color: #FFFFFF;
+}

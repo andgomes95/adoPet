@@ -1,0 +1,19 @@
+.cabecalho-principal{
+  position: flex;
+  justify-content: flex-start;
+  width: 100%;
+  height: 10em;
+}
+.fundo-principal{
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: -1;
+}
+.botao-casa{
+  padding: 10%;
+}
+
+.botao-mensagem{
+  padding: 10%;
+}
